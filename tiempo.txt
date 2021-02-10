@@ -1,0 +1,3 @@
+soleado, 17
+lluvioso, 25
+con nubes, 8 (grados)
